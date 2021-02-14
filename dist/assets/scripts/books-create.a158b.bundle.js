@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],[function(n,i,o){"use strict";var t={init:function(){console.log("banner")}};i.a=t},,function(n,i,o){"use strict";o.r(i);i=o(0),o={init:function(){$("#js-btn").click(function(){alert("京程一灯")})}};console.log("add组件");i.a.init(),o.init()}],[[2,0]]]);

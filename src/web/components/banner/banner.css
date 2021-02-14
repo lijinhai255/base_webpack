@@ -1,0 +1,17 @@
+.components-banner {
+  --ydColor: yellowgreen;
+  & .nav {
+    list-style: none;
+  }
+  & .nav--item {
+    float: left;
+  }
+  & nav--item__active a {
+    color: var(--ydColor);
+  }
+  background:red;
+  background:red;
+}
+.text{
+  background-color:red;
+}

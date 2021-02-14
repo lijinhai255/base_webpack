@@ -1,0 +1,21 @@
+[2020-12-10T21:59:56.610] [ERROR] globalError - ENOENT: no such file or directory, open '/Users/yuanzhijia/Desktop/yd-books/dist/components/add/add.html'
+[2020-12-10T22:40:32.735] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:40:35.636] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:40:41.756] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:40:52.467] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:40:56.583] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:40:58.766] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:41:00.523] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:41:07.622] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:57:57.916] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:58:01.053] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:58:09.661] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:58:14.518] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:58:57.401] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:58:58.271] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:58:58.451] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:58:58.456] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:58:58.627] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T22:59:02.290] [ERROR] globalError - The first argument must be of type string or an instance of Buffer or Uint8Array. Received null
+[2020-12-10T23:19:40.537] [ERROR] globalError - $ is not defined
+[2020-12-10T23:31:11.559] [ERROR] globalError - result is not defined
